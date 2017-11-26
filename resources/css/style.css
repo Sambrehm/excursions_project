@@ -1,19 +1,16 @@
-html {
-  background-color: black
+body {
+  background-color: black;
+  text-align: center;
+  color: white;
+  font-family: verdana;
+}
+a {
+  color:aquamarine;
+  text-size:14px;
 }
 h1 {
-  font: arial;
-  color: white;
-  text-align:center
+  font-size: 50px;
 }
-p {
-  text-align:center ;
-}
-
-a {
-  color:lightyellow
-
-}
-video {
-  align-self: center;
+h2 {
+  font-size: 42px;
 }
